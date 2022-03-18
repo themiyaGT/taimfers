@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1A559d40D4a2cC0e3CDAEb2D6Dddf2Ed7351b841",
+  "SCAN_LINK": "https://https://rinkeby.etherscan.io/address/0x1A559d40D4a2cC0e3CDAEb2D6Dddf2Ed7351b841",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Tai mfers",
+  "SYMBOL": "MFN TAI",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tai-mfers-edo0ynvb41",
+  "SHOW_BACKGROUND": true
+}
